@@ -10,6 +10,7 @@
 - Maven 
 - JPA
 - Hibernate
+- Lombok
 - RESTful
 - Apache Tomcat
 - IDE Eclipse
